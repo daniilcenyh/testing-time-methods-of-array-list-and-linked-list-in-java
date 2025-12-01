@@ -44,7 +44,7 @@ public class ArrayListMethodTimeTesting {
         this.arrayList.clear();
         return """
                 --------------------------------------------
-                LinkedList method - DELETE by index \n
+                ArrayList method - DELETE by index \n
                 count iteration: %d \n
                 time iteration: %d nanoseconds.
                 --------------------------------------------
@@ -65,7 +65,7 @@ public class ArrayListMethodTimeTesting {
         this.arrayList.clear();
         return """
                 --------------------------------------------
-                LinkedList method - GET by index \n
+                ArrayList method - GET by index \n
                 count iteration: %d \n
                 time iteration: %d nanoseconds.
                 --------------------------------------------
